@@ -14,22 +14,17 @@ Computer Science Engineering graduate from Technocrats Institute of Technology �
 - 🎯 Career goal: Data Analyst / Data Scientist
 
 ## 🛠️ Skills & Technologies
-## 🛠️ Skills & Technologies
-
-## 🛠️ Skills & Technologies
-
-### 👨‍💻 Programming & Data
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,mysql,excel" />
 </p>
 
-### 📊 Data Analysis & Visualization
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,powerbi,tableau" />
 </p>
 
-### ☁️ Cloud & Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,github,git,flask,sklearn" />
 </p>
